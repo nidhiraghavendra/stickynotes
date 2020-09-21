@@ -1,0 +1,41 @@
+.headers {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    font-weight: 400px;
+    font-size: 14px;
+    color: #272626;
+    position: sticky;
+    top: 0;
+    position: relative;
+    justify-content: space-between;
+    background-color: rgb(230, 241, 252);
+}
+
+.header__left {
+    display: flex;
+    margin-left: 5px;
+    align-items: center;
+}
+
+.header__right {
+    display: flex;
+    align-items: center;
+}
+
+.header__Title {
+    margin-left: 10px;
+}
+
+.header__rightIcon {
+    margin-right: 10px;
+}
+
+
+
+.MuiAvatar-root.rightAvatar {
+    margin-right: 10px;
+    width: 30px !important;
+    height: 30px !important;
+    background-color: paleturquoise !important;
+}

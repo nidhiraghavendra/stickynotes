@@ -1,0 +1,23 @@
+.aboutDiv {
+  padding: 2%;
+ 
+}
+
+.envelope {
+  width: 900px;
+  height: 650px;
+  padding: 1%;
+  background: rgba(202, 182, 204, 0.39);
+}
+
+.MuiSvgIcon-root.icon {
+  margin: 10px;
+  font-size: 40pt;
+  color: rgb(207, 124, 207);
+}
+
+.app {
+  height: 100vh;
+  display: flex;
+  flex-flow: column;
+}
